@@ -1,6 +1,8 @@
 # Curriculum-Authoring-Tool
 
 #Basic functionalities: 
+
+
 ● Row actions 
 1. Indent & Outdent - see GIF 
 2. Delete - will delete the node along with its children 
